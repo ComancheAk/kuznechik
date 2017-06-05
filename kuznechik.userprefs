@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{489BB417-8EF7-4E91-83AC-A67EC529E476}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="kuznechik/.gitignore.txt">
+    <Files>
+      <File FileName="kuznechik/Program.cs" Line="5" Column="11" />
+      <File FileName="kuznechik/Kuznyechik.cs" Line="5" Column="48" />
+      <File FileName="kuznechik/KeyMaker.cs" Line="2" Column="20" />
+      <File FileName="kuznechik/IKuznechik.cs" Line="4" Column="32" />
+      <File FileName="kuznechik/HexToByte.cs" Line="4" Column="20" />
+      <File FileName="kuznechik/ByteToHex.cs" Line="2" Column="20" />
+      <File FileName="kuznechik/BlockSplitter.cs" Line="3" Column="20" />
+      <File FileName="kuznechik/BlockBuilder.cs" Line="2" Column="20" />
+      <File FileName="kuznechik/.gitignore.txt" Line="14" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.kuznechik PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

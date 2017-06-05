@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kuznechik", "kuznechik.csproj", "{489BB417-8EF7-4E91-83AC-A67EC529E476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489BB417-8EF7-4E91-83AC-A67EC529E476}.Debug|x86.ActiveCfg = Debug|x86
+		{489BB417-8EF7-4E91-83AC-A67EC529E476}.Debug|x86.Build.0 = Debug|x86
+		{489BB417-8EF7-4E91-83AC-A67EC529E476}.Release|x86.ActiveCfg = Release|x86
+		{489BB417-8EF7-4E91-83AC-A67EC529E476}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		description = @Kuznechik GOST 34.12 R-2015 C# mono implementation. It uses some parts of yaruson's GostPlugin\nhttps://github.com/yaruson/GostPlugin
+	EndGlobalSection
+EndGlobal
