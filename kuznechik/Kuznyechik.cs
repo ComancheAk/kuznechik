@@ -211,18 +211,10 @@ namespace kuznechik
                 result[i] ^= data[i];
             }
         }
-		/*
-        private byte l (ref byte[] data) {
-            byte x = data[15];
-            for (int i = 14; i >= 0; i--) {
-                x ^= _gf_mul[data[i]][_lFactors[i]];
 
-            }
-            return x;
-        }
-		*/
+        
         private void R (ref byte[] data) {
-            //byte z = l(ref data);
+
 			byte z = data[15];
 			for (int i = 14; i >= 0; i--)
 			{
