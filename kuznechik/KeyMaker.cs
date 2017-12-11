@@ -5,7 +5,7 @@ namespace kuznechik
 	{
 		public static string KeyGenerator()
 		{
-			//string keyString;
+			/*
 			string[] intCharKey = new string[64];
 			Random r = new Random(DateTime.Now.Millisecond);
 
@@ -15,7 +15,8 @@ namespace kuznechik
 				intCharKey[j] = curentValue.ToString("X");
 			}
 			string keyString = string.Join("", intCharKey);
-
+			*/
+			string keyString = "8899aabbccddeeff0011223344556677fedcba98765432100123456789abcdef";
 
 			return keyString;
 		}
